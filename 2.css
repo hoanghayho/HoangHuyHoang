@@ -1,4 +1,3 @@
-
 /* Tất cả màu bên dưới bạn đều có thể thay đổi được */
 .thuTitle {
 	padding: 20px;
@@ -20,7 +19,7 @@
 
 body {
 	/* Ảnh nền của trang thứ 2 */
-	background-image: url("./Hoàng nè.jpg");
+	background-image: url("./img/bg2.jpg");
 	background-size: cover;
     background-repeat: none;
 }
